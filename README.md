@@ -1,0 +1,2 @@
+# pythonLicensePlateRecognition
+中软国际实习项目：python实现的车牌识别程序
