@@ -1,11 +1,6 @@
 # !/usr/bin/python
 # -*- coding: utf-8 -*-
 
-# @Time: 2020/2/9 下午4:19
-# @Author: Casually
-# @File: args.py
-# @Email: fjkl@vip.qq.com
-# @Software: PyCharm
 import argparse
 
 Prefecture = {
